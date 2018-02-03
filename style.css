@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box; /* made header-- bigger boxes..? */
+    text-align: center;
+}
+
+body {
+    background-color: #777;
+    font-size: 18px;
+    font-family: "Arial", "Helvetica Neue", Arial, Helvetica, sans-serif;
+    width: 960 px;
+    
+    
+}
+#con { border-style: solid;
+       border-color:pink; 
+       border-width: 2px;
+
+
+}
+
+#hd {
+    background-color: #ebebeb;
+    width:495 px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #ebebeb;
+    margin-bottom: 20px;
+    padding: 20px;
+
+
+}
+
+#nab {
+    background-color: #ebebeb;
+    width: 495 px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #ebebeb;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+
+
+
+#sec {
+    background-color: #ebebeb;
+    width: 495 px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #ebebeb;
+    margin-bottom: 20px;
+    padding: 20px;
+    width: 50%;
+    float: left;
+}
+
+
+
+#art {
+    background-color: #777;
+    width: 495 px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #ebebeb;
+    margin-bottom: 20px;
+    padding: 20px;
+    width: 35%;
+    float: left;
+}
+
+#h {
+    background-color: #ebebeb;
+    width: 495 px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #ebebeb;
+    margin-bottom: 20px;
+    padding: 20px;
+    width: 7.5%;
+    float: left;
+
+
+}
+
+#p {
+    background-color: #ebebeb;
+    width: 495 px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #ebebeb;
+    margin-bottom: 20px;
+    width: 7.5%;
+    float: left;
+    
+}
+
+#asd {
+    clear: both;
+    background-color: #ebebeb;
+    width: 495 px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #ebebeb;
+    overflow: auto;
+    margin-bottom: 20px;
+    padding: 20px;
+    float: right;
+
+}
+
+#foot {
+    clear: both;
+    background-color: #ebebeb;
+    width: 495 px;
+    border-width: 5px;
+    border-style: solid;
+    overflow: auto;
+    border-color: #ebebeb;
+    margin-bottom: 20px;
+    padding: 20px;
+
+}
